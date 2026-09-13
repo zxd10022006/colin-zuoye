@@ -4,11 +4,9 @@ using namespace std;
 int main(){
 	cout<<"nb"<<endl;
 
-	int a=0;
-	for(int i=0;i<100;i++){
-		a++;
-		cout<<a<<endl;
-	}
+	
+
+	cout<<"heheheheh 大噶我给你改了"
 
 	return 0;
 }
