@@ -8,5 +8,9 @@ int main(){
 
 	cout<<"heheheheh 大噶我给你改了"
 
+
+	cout<<"nb again"<<endl;
+
+
 	return 0;
 }
